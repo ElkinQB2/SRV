@@ -399,3 +399,33 @@
 [18Apr2025 21:34:33.791] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-87, y=112, z=5} BlockPos{x=-87, y=110, z=4}
 [18Apr2025 21:34:33.842] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-87, y=112, z=5} BlockPos{x=-87, y=110, z=4}
 [18Apr2025 22:04:33.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElkinQB was slain by Zombie
+[18Apr2025 23:17:15.302] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Johny[/127.51.91.201:55511] logged in with entity id 70394 at (-124.33331276134508, 110.5625, -18.5441670155786)
+[18Apr2025 23:17:15.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Johny joined the game
+[18Apr2025 23:17:38.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johny> ola
+[18Apr2025 23:17:41.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> ola
+[18Apr2025 23:17:48.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> escucha el audio
+[18Apr2025 23:18:47.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> lo escuchastes?
+[18Apr2025 23:18:57.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johny> q cosa
+[18Apr2025 23:19:01.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> el audio
+[18Apr2025 23:19:15.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johny> voy
+[18Apr2025 23:19:17.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> ok
+[18Apr2025 23:22:08.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> oe consigue hierro para los rieles
+[18Apr2025 23:22:12.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johny> ya
+[18Apr2025 23:24:43.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> loco el arbol de cerezo si da brots en 2 arboles 25 brotes y subiendo
+[18Apr2025 23:24:53.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johny> hppp
+[18Apr2025 23:24:56.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johny> hartisimo
+[18Apr2025 23:25:00.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> tlj
+[18Apr2025 23:25:19.742] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/101, l='ServerLevel[world]', x=-233.17, y=66.00, z=4.38] died, message: 'Farmer was slain by Zombie'
+[18Apr2025 23:26:29.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> en el horno te deje comida
+[18Apr2025 23:26:38.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> en este
+[18Apr2025 23:26:39.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johny> igual ya consegui
+[18Apr2025 23:26:43.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johny> gracias
+[18Apr2025 23:26:52.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> cojela
+[18Apr2025 23:27:06.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> zzzzzzzzzz
+[18Apr2025 23:28:13.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> mira
+[18Apr2025 23:28:18.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> xxddd
+[18Apr2025 23:28:23.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johny> espectculard
+[18Apr2025 23:28:26.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> 5 mas
+[18Apr2025 23:28:33.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johny> vendelas
+[18Apr2025 23:28:38.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> oki
+[18Apr2025 23:30:54.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> loco arrazamos con toda la aldea y montaña
