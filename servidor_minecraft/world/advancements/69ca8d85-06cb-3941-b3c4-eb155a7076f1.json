@@ -7,7 +7,9 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:sunflower_plains": "2025-04-18 03:31:35 +0000",
       "minecraft:river": "2025-04-17 04:05:04 +0000",
+      "minecraft:flower_forest": "2025-04-18 03:31:32 +0000",
       "minecraft:meadow": "2025-04-17 03:50:59 +0000",
       "minecraft:plains": "2025-04-17 03:38:13 +0000"
     },
@@ -144,6 +146,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-04-17 04:21:51 +0000",
+      "apple": "2025-04-18 03:24:33 +0000",
       "potato": "2025-04-17 03:52:25 +0000",
       "bread": "2025-04-17 04:03:07 +0000",
       "rotten_flesh": "2025-04-17 03:55:15 +0000",
@@ -682,6 +685,24 @@
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2025-04-17 04:20:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-04-18 03:26:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2025-04-18 03:26:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-04-18 03:26:48 +0000"
     },
     "done": true
   },
