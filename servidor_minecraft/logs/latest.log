@@ -47,3 +47,9 @@
 [18Apr2025 17:51:23.803] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Johny[/127.51.91.201:56711] logged in with entity id 211 at (-133.21497623655242, 109.0, -19.3126750989244)
 [18Apr2025 17:51:23.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Johny joined the game
 [18Apr2025 17:56:34.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Johny has made the advancement [Hot Stuff]
+[18Apr2025 18:15:44.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[18Apr2025 18:15:44.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: msg Hola<--[HERE]
+[18Apr2025 18:16:28.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] Hola
+[18Apr2025 18:16:37.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johny> oli
+[18Apr2025 18:16:41.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] ya entro
+[18Apr2025 18:16:54.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johny> ya

@@ -625,3 +625,13 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [18Apr2025 17:58:45.335] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [18Apr2025 18:03:45.310] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [18Apr2025 18:03:45.316] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Apr2025 18:08:45.307] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Apr2025 18:08:45.311] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Apr2025 18:13:45.303] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Apr2025 18:13:45.308] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Apr2025 18:15:44.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[18Apr2025 18:15:44.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: msg Hola<--[HERE]
+[18Apr2025 18:16:28.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] Hola
+[18Apr2025 18:16:37.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johny> oli
+[18Apr2025 18:16:41.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] ya entro
+[18Apr2025 18:16:54.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johny> ya
