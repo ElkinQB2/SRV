@@ -394,3 +394,7 @@
 [18Apr2025 21:28:53.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> oki
 [18Apr2025 21:28:55.093] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Johny lost connection: Disconnected
 [18Apr2025 21:28:55.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Johny left the game
+[18Apr2025 21:34:28.084] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-105, y=111, z=29} BlockPos{x=-104, y=109, z=28}
+[18Apr2025 21:34:28.132] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-105, y=111, z=29} BlockPos{x=-104, y=109, z=28}
+[18Apr2025 21:34:33.791] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-87, y=112, z=5} BlockPos{x=-87, y=110, z=4}
+[18Apr2025 21:34:33.842] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-87, y=112, z=5} BlockPos{x=-87, y=110, z=4}
