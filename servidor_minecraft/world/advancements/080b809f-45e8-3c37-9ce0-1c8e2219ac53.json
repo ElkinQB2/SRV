@@ -10,7 +10,9 @@
       "minecraft:cherry_grove": "2025-04-18 03:22:52 +0000",
       "minecraft:river": "2025-04-18 03:21:08 +0000",
       "minecraft:snowy_plains": "2025-04-18 03:24:11 +0000",
+      "minecraft:dripstone_caves": "2025-04-18 03:41:34 +0000",
       "minecraft:snowy_taiga": "2025-04-18 03:26:06 +0000",
+      "minecraft:flower_forest": "2025-04-18 03:36:34 +0000",
       "minecraft:meadow": "2025-04-17 04:15:06 +0000",
       "minecraft:plains": "2025-04-17 04:14:47 +0000"
     },
@@ -491,6 +493,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2025-04-18 03:38:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton_from_smoking": {
     "criteria": {
       "has_mutton": "2025-04-18 03:23:35 +0000"
@@ -521,6 +529,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2025-04-18 03:38:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2025-04-18 03:41:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
     "criteria": {
       "has_mutton": "2025-04-18 03:23:35 +0000"
@@ -548,6 +568,12 @@
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2025-04-18 03:24:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2025-04-18 03:38:17 +0000"
     },
     "done": true
   },
