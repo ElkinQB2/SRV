@@ -119,3 +119,8 @@
 [18Apr2025 03:46:47.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> voy a minar a ver si consigo mas hierro
 [18Apr2025 03:46:51.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johny> oki
 [18Apr2025 03:46:57.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Johny has made the advancement [A Seedy Place]
+[18Apr2025 03:49:31.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> aguanta ya entro
+[18Apr2025 03:49:33.283] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElkinQB lost connection: Disconnected
+[18Apr2025 03:49:33.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElkinQB left the game
+[18Apr2025 03:49:43.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Johny has made the advancement [Monster Hunter]
+[18Apr2025 03:52:19.584] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/113, l='ServerLevel[world]', x=-162.16, y=72.00, z=-60.87] died, message: 'Villager was slain by Zombie'
