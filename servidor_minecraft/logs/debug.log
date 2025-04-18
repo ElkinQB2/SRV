@@ -1463,3 +1463,23 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [18Apr2025 23:41:16.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> otra vagoneta
 [18Apr2025 23:41:24.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johny> matemos golem
 [18Apr2025 23:41:31.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> no salen
+[18Apr2025 23:41:40.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johny> espera ps
+[18Apr2025 23:41:55.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johny> oe y
+[18Apr2025 23:41:59.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> ?
+[18Apr2025 23:42:03.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johny> q estas haciendo
+[18Apr2025 23:42:06.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> para tenerlo capturado
+[18Apr2025 23:42:12.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> para la granja
+[18Apr2025 23:42:16.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johny> aaaaaa
+[18Apr2025 23:42:32.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johny> quieres meterlo en la jaula?
+[18Apr2025 23:42:47.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> nooo
+[18Apr2025 23:43:06.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> dejalo ahi
+[18Apr2025 23:43:10.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johny> oki
+[18Apr2025 23:43:14.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> coje otro y sacalo
+[18Apr2025 23:43:17.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> voy a comer
+[18Apr2025 23:43:19.144] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElkinQB lost connection: Disconnected
+[18Apr2025 23:43:19.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElkinQB left the game
+[18Apr2025 23:43:48.048] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Apr2025 23:43:48.052] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Apr2025 23:44:26.691] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/14, l='ServerLevel[world]', x=-163.49, y=103.00, z=12.07] died, message: 'Villager suffocated in a wall'
+[18Apr2025 23:48:48.048] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Apr2025 23:48:48.051] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
