@@ -1354,6 +1354,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-04-18 23:32:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2025-04-18 19:48:51 +0000"
@@ -1381,6 +1387,12 @@
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_quartz": "2025-04-18 19:53:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2025-04-18 23:32:03 +0000"
     },
     "done": true
   },
@@ -1468,6 +1480,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2025-04-18 23:32:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-04-18 21:10:39 +0000"
@@ -1477,6 +1495,12 @@
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2025-04-18 19:51:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2025-04-18 23:32:03 +0000"
     },
     "done": true
   },
@@ -1810,6 +1834,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2025-04-18 23:32:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
     "criteria": {
       "has_oxeye_daisy": "2025-04-18 19:03:59 +0000"
@@ -1873,6 +1903,12 @@
   "minecraft:recipes/redstone/crimson_trapdoor": {
     "criteria": {
       "has_planks": "2025-04-18 20:18:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-04-18 23:32:02 +0000"
     },
     "done": true
   },
@@ -1942,6 +1978,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-04-18 23:32:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-04-18 20:17:23 +0000"
@@ -1963,6 +2005,12 @@
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_stone": "2025-04-18 21:10:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2025-04-18 23:32:03 +0000"
     },
     "done": true
   },
