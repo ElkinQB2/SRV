@@ -1483,3 +1483,9 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [18Apr2025 23:44:26.691] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/14, l='ServerLevel[world]', x=-163.49, y=103.00, z=12.07] died, message: 'Villager suffocated in a wall'
 [18Apr2025 23:48:48.048] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [18Apr2025 23:48:48.051] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Apr2025 23:53:48.050] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Apr2025 23:53:48.054] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Apr2025 23:58:48.048] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Apr2025 23:58:48.052] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Apr2025 00:00:27.894] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Johny lost connection: Disconnected
+[19Apr2025 00:00:27.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Johny left the game
