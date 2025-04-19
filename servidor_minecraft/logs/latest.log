@@ -137,3 +137,15 @@
 [19Apr2025 02:21:50.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElkinQB left the game
 [19Apr2025 02:32:11.396] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElkinQB[/127.138.251.110:34693] logged in with entity id 99933 at (-119.40254303709104, 110.02956797779274, -18.56721858309963)
 [19Apr2025 02:32:11.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElkinQB joined the game
+[19Apr2025 02:41:06.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElkinQB was slain by Iron Golem
+[19Apr2025 02:41:42.393] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElkinQB lost connection: Timed out
+[19Apr2025 02:41:42.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElkinQB left the game
+[19Apr2025 02:42:01.343] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElkinQB[/127.138.251.110:56357] logged in with entity id 101516 at (-121.30712547497144, 110.0, -15.237500011920929)
+[19Apr2025 02:42:01.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElkinQB joined the game
+[19Apr2025 02:42:18.241] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElkinQB lost connection: Disconnected
+[19Apr2025 02:42:18.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElkinQB left the game
+[19Apr2025 02:42:44.137] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@523590af[id=<null>,name=ElkinQB,properties={},legacy=false] (/127.138.251.110:51461) lost connection: Disconnected
+[19Apr2025 02:42:50.142] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElkinQB[/127.138.251.110:33735] logged in with entity id 101574 at (-121.30712547497144, 110.0, -15.237500011920929)
+[19Apr2025 02:42:50.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElkinQB joined the game
+[19Apr2025 02:43:01.042] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElkinQB lost connection: Disconnected
+[19Apr2025 02:43:01.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElkinQB left the game
