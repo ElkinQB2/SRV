@@ -4,3 +4,55 @@
 [19Apr2025 00:08:47.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElkinQB joined the game
 [19Apr2025 00:08:52.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> ola
 [19Apr2025 00:18:17.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> xd
+[19Apr2025 00:34:21.046] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Johny[/127.51.91.201:40279] logged in with entity id 84974 at (-193.11345110995148, 104.0, 78.22055241833154)
+[19Apr2025 00:34:21.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Johny joined the game
+[19Apr2025 00:34:23.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> ola
+[19Apr2025 00:34:29.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johny> ola
+[19Apr2025 00:34:54.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> estoy mejorando esto xd
+[19Apr2025 00:35:05.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johny> q cosa?
+[19Apr2025 00:35:17.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> la parte de la cama atras
+[19Apr2025 00:35:26.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johny> aaaaaaaa
+[19Apr2025 00:44:54.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johny> voyyyyyyy
+[19Apr2025 00:45:05.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> zzzzzzzzzzz
+[19Apr2025 00:46:38.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> ya entro
+[19Apr2025 00:46:50.593] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElkinQB lost connection: Disconnected
+[19Apr2025 00:46:50.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElkinQB left the game
+[19Apr2025 00:46:50.647] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[19Apr2025 00:46:51.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johny> oki
+[19Apr2025 00:47:06.500] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElkinQB[/127.138.251.110:56417] logged in with entity id 88517 at (-141.74647743229838, 109.0, -4.463884440915856)
+[19Apr2025 00:47:06.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElkinQB joined the game
+[19Apr2025 00:47:21.544] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElkinQB lost connection: Disconnected
+[19Apr2025 00:47:21.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElkinQB left the game
+[19Apr2025 00:47:54.899] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElkinQB[/127.138.251.110:37163] logged in with entity id 88675 at (-141.74647743229838, 109.0, -4.463884440915856)
+[19Apr2025 00:47:54.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElkinQB joined the game
+[19Apr2025 00:48:03.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> se bug
+[19Apr2025 00:48:18.992] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElkinQB lost connection: Disconnected
+[19Apr2025 00:48:18.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElkinQB left the game
+[19Apr2025 00:48:45.454] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@8116646[id=<null>,name=ElkinQB,properties={},legacy=false] (/127.138.251.110:60183) lost connection: Disconnected
+[19Apr2025 00:49:01.994] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2d080620[id=<null>,name=ElkinQB,properties={},legacy=false] (/127.138.251.110:56043) lost connection: Disconnected
+[19Apr2025 00:49:25.648] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElkinQB[/127.138.251.110:52179] logged in with entity id 88895 at (-141.74647743229838, 109.0, -4.463884440915856)
+[19Apr2025 00:49:25.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElkinQB joined the game
+[19Apr2025 00:49:34.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johny> y?
+[19Apr2025 00:49:41.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johny> ya?
+[19Apr2025 00:49:55.791] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElkinQB lost connection: Timed out
+[19Apr2025 00:49:55.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElkinQB left the game
+[19Apr2025 00:50:51.498] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElkinQB[/127.138.251.110:41823] logged in with entity id 89282 at (-141.74647743229838, 109.0, -4.463884440915856)
+[19Apr2025 00:50:51.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElkinQB joined the game
+[19Apr2025 00:51:20.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> toy de nuevo
+[19Apr2025 00:51:27.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johny> lito
+[19Apr2025 00:53:06.693] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElkinQB lost connection: Timed out
+[19Apr2025 00:53:06.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElkinQB left the game
+[19Apr2025 00:53:36.343] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@41a90422[id=<null>,name=ElkinQB,properties={},legacy=false] (/127.138.251.110:35293) lost connection: Disconnected
+[19Apr2025 00:55:22.197] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElkinQB[/127.138.251.110:58901] logged in with entity id 90229 at (-99.04698613417028, 110.0, -18.057430801003644)
+[19Apr2025 00:55:22.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElkinQB joined the game
+[19Apr2025 00:55:36.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> xd internet de mrd yo no se para q se cambiaron
+[19Apr2025 00:56:45.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> zzzzzzzzzzzz
+[19Apr2025 00:56:59.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johny> xd
+[19Apr2025 00:57:17.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> oe tala tu putos arboles o los incedio
+[19Apr2025 00:57:23.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johny> yayayayaayayaya
+[19Apr2025 00:57:25.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johny> aguantaaaa
+[19Apr2025 00:57:34.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> jajaja ok
+[19Apr2025 01:01:35.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> al fin hpt
+[19Apr2025 01:01:45.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johny> q cosa
+[19Apr2025 01:01:50.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> al fin los talas
+[19Apr2025 01:02:09.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johny> ya pq me obligas
