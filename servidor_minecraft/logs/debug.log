@@ -2545,3 +2545,7 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [19Apr2025 01:21:05.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johny> xd
 [19Apr2025 01:22:00.745] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElkinQB lost connection: Timed out
 [19Apr2025 01:22:00.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElkinQB left the game
+[19Apr2025 01:23:48.050] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Apr2025 01:23:48.054] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Apr2025 01:28:48.051] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Apr2025 01:28:48.055] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
