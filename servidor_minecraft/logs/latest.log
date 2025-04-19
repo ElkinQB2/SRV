@@ -203,3 +203,20 @@
 [19Apr2025 02:50:39.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElkinQB left the game
 [19Apr2025 02:51:14.242] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElkinQB[/127.138.251.110:59203] logged in with entity id 102373 at (-121.30712547497144, 110.0, -15.237500011920929)
 [19Apr2025 02:51:14.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElkinQB joined the game
+[19Apr2025 02:53:29.441] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElkinQB lost connection: Timed out
+[19Apr2025 02:53:29.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElkinQB left the game
+[19Apr2025 02:55:26.391] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElkinQB[/127.138.251.110:40465] logged in with entity id 102874 at (-142.89883601172963, 109.5, 6.618376917188093)
+[19Apr2025 02:55:26.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElkinQB joined the game
+[19Apr2025 02:55:56.444] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElkinQB lost connection: Timed out
+[19Apr2025 02:55:56.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElkinQB left the game
+[19Apr2025 02:59:53.592] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElkinQB[/127.138.251.110:42283] logged in with entity id 102970 at (-142.89883601172963, 109.5, 6.618376917188093)
+[19Apr2025 02:59:53.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElkinQB joined the game
+[19Apr2025 03:00:23.691] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElkinQB lost connection: Timed out
+[19Apr2025 03:00:23.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElkinQB left the game
+[19Apr2025 03:01:19.337] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@28e5b8ba[id=<null>,name=ElkinQB,properties={},legacy=false] (/127.138.251.110:39311) lost connection: Disconnected
+[19Apr2025 03:01:37.287] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1409e5bb[id=<null>,name=ElkinQB,properties={},legacy=false] (/127.138.251.110:55685) lost connection: Disconnected
+[19Apr2025 03:01:44.393] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElkinQB[/127.138.251.110:36969] logged in with entity id 103059 at (-142.89883601172963, 109.5, 6.618376917188093)
+[19Apr2025 03:01:44.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElkinQB joined the game
+[19Apr2025 03:02:11.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> aaaaaaa
+[19Apr2025 03:02:14.493] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElkinQB lost connection: Timed out
+[19Apr2025 03:02:14.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElkinQB left the game
