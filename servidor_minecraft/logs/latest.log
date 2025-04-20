@@ -59,3 +59,5 @@
 [20Apr2025 05:00:54.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Johny joined the game
 [20Apr2025 05:00:57.974] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElkinQB lost connection: Disconnected
 [20Apr2025 05:00:57.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElkinQB left the game
+[20Apr2025 05:28:15.368] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Johny lost connection: Disconnected
+[20Apr2025 05:28:15.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Johny left the game
