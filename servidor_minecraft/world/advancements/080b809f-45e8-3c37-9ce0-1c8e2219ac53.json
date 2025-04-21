@@ -680,7 +680,9 @@
       "minecraft:spider": "2025-04-19 04:31:11 +0000",
       "minecraft:creeper": "2025-04-18 19:36:13 +0000",
       "minecraft:piglin": "2025-04-18 19:52:03 +0000",
-      "minecraft:zombie": "2025-04-18 03:49:43 +0000"
+      "minecraft:enderman": "2025-04-21 03:23:00 +0000",
+      "minecraft:zombie": "2025-04-18 03:49:43 +0000",
+      "minecraft:drowned": "2025-04-21 03:19:36 +0000"
     },
     "done": false
   },
@@ -2217,6 +2219,24 @@
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2025-04-20 02:54:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-04-21 03:07:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-04-21 03:23:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-04-21 03:23:11 +0000"
     },
     "done": true
   },
