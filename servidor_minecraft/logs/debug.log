@@ -995,3 +995,89 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [21Apr2025 04:12:38.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElkinQB fell from a high place
 [21Apr2025 04:14:35.630] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [21Apr2025 04:14:35.634] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Apr2025 04:15:43.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElkinQB has made the advancement [Cover Me with Diamonds]
+[21Apr2025 04:19:35.623] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Apr2025 04:19:35.627] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Apr2025 04:22:40.387] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 0.30093097580237327
+[21Apr2025 04:22:40.388] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 0.8151805306595179
+[21Apr2025 04:22:40.545] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 0.340331951936264
+[21Apr2025 04:23:33.437] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 0.34007612107228624
+[21Apr2025 04:23:33.437] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 0.951232876882159
+[21Apr2025 04:23:33.438] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 1.5595390026508085
+[21Apr2025 04:23:33.438] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 2.1622639317658496
+[21Apr2025 04:23:33.554] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 2.762564005848811
+[21Apr2025 04:23:35.648] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 0.5182494546467495
+[21Apr2025 04:23:35.648] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 1.1594394413262847
+[21Apr2025 04:23:35.648] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 1.8025557621235322
+[21Apr2025 04:23:35.765] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 2.4467028259002177
+[21Apr2025 04:23:35.766] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 3.09196764362828
+[21Apr2025 04:23:35.923] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 3.4672954401688685
+[21Apr2025 04:23:35.923] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 3.8320986080423722
+[21Apr2025 04:23:35.924] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 4.187700297317662
+[21Apr2025 04:23:36.394] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 2.515824821262484
+[21Apr2025 04:23:36.394] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 2.515824821262484
+[21Apr2025 04:23:36.394] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 2.515824821262484
+[21Apr2025 04:23:36.395] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 2.1383371191419087
+[21Apr2025 04:23:36.395] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 1.4995567782877544
+[21Apr2025 04:23:36.552] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 0.8556213554016807
+[21Apr2025 04:24:20.628] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 0.48487352672412953
+[21Apr2025 04:24:20.745] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 1.0765462380642816
+[21Apr2025 04:24:20.745] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 1.6813008857562863
+[21Apr2025 04:24:20.745] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 2.2943273923859806
+[21Apr2025 04:24:35.625] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Apr2025 04:24:35.629] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Apr2025 04:24:40.986] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 0.3017979223913585
+[21Apr2025 04:24:40.986] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 0.7036421902337224
+[21Apr2025 04:24:41.103] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 1.0839006099179755
+[21Apr2025 04:24:41.104] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 1.295157518560245
+[21Apr2025 04:24:41.104] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 1.1784200269848384
+[21Apr2025 04:24:41.221] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 0.8464746806628796
+[21Apr2025 04:24:41.221] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 0.38956771935988854
+[21Apr2025 04:24:41.578] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 0.33634038577702086
+[21Apr2025 04:24:41.579] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 0.33634038577702086
+[21Apr2025 04:24:49.515] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 0.2785179162848408
+[21Apr2025 04:24:49.515] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 0.9299783447403911
+[21Apr2025 04:24:49.630] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 1.0
+[21Apr2025 04:24:49.630] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 1.0
+[21Apr2025 04:24:49.748] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 1.0
+[21Apr2025 04:24:49.748] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 1.0
+[21Apr2025 04:24:49.866] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 1.0
+[21Apr2025 04:24:49.866] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 1.0
+[21Apr2025 04:24:49.866] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 1.0
+[21Apr2025 04:24:49.983] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 1.0
+[21Apr2025 04:24:49.984] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 1.0
+[21Apr2025 04:24:50.101] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 1.0
+[21Apr2025 04:24:50.102] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 0.2990518834935756
+[21Apr2025 04:24:50.102] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 0.4590685838996933
+[21Apr2025 04:24:50.219] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 0.5446903298981738
+[21Apr2025 04:24:50.220] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 0.590504819068542
+[21Apr2025 04:24:50.337] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 0.6150192387812012
+[21Apr2025 04:24:50.337] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 0.6281364160046792
+[21Apr2025 04:24:50.454] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 0.6351551560086364
+[21Apr2025 04:24:50.455] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 0.6389107438461679
+[21Apr2025 04:24:50.455] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 0.6389107438461679
+[21Apr2025 04:24:50.572] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 0.6389107438461679
+[21Apr2025 04:24:50.573] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 0.6389107438461679
+[21Apr2025 04:24:50.690] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 0.6389107438461679
+[21Apr2025 04:24:50.690] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 0.6389107438461679
+[21Apr2025 04:24:50.813] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 0.6389107438461679
+[21Apr2025 04:24:50.813] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 0.6389107438461679
+[21Apr2025 04:24:50.814] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 0.9392153776918235
+[21Apr2025 04:24:50.928] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 1.40074998491923
+[21Apr2025 04:24:50.928] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 1.9496592908390085
+[21Apr2025 04:24:51.046] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 1.5454993956350904
+[21Apr2025 04:24:51.046] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 2.1664512352107295
+[21Apr2025 04:25:00.007] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 0.5423924798547546
+[21Apr2025 04:25:00.364] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 0.26040660724764564
+[21Apr2025 04:27:46.943] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 0.3054485027388161
+[21Apr2025 04:27:47.062] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 0.9288075769994535
+[21Apr2025 04:27:47.063] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 0.5590048318063481
+[21Apr2025 04:29:35.622] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Apr2025 04:29:35.625] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Apr2025 04:34:35.627] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Apr2025 04:34:35.631] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Apr2025 04:39:35.624] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Apr2025 04:39:35.628] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Apr2025 04:43:58.714] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/13, l='ServerLevel[world]', x=-128.53, y=111.00, z=-9.57] died, message: 'Fletcher was shot by Pillager'
+[21Apr2025 04:44:35.623] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Apr2025 04:44:35.626] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
