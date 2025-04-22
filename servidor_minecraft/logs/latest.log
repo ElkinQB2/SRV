@@ -88,3 +88,5 @@
 [22Apr2025 18:09:33.624] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElkinQB lost connection: Disconnected
 [22Apr2025 18:09:33.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElkinQB left the game
 [22Apr2025 18:09:37.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johny> oki
+[22Apr2025 18:21:13.270] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Johny lost connection: Disconnected
+[22Apr2025 18:21:13.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Johny left the game
