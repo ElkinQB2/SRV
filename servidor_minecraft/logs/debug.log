@@ -750,3 +750,10 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [22Apr2025 17:33:54.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johny> casi me mato 5 veces
 [22Apr2025 17:33:57.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> jajjaj
 [22Apr2025 17:34:09.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> thx
+[22Apr2025 17:34:18.642] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Apr2025 17:34:18.646] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Apr2025 17:39:18.639] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Apr2025 17:39:18.643] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Apr2025 17:42:10.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johny> zzzz
+[22Apr2025 17:42:16.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> vrg
+[22Apr2025 17:42:33.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> zzzzzzz
