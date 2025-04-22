@@ -90,3 +90,6 @@
 [22Apr2025 18:09:37.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johny> oki
 [22Apr2025 18:21:13.270] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Johny lost connection: Disconnected
 [22Apr2025 18:21:13.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Johny left the game
+[22Apr2025 18:28:59.276] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElkinQB[/127.138.251.110:53951] logged in with entity id 25522 at (-95.52925482765288, 106.9375, 27.125337724546128)
+[22Apr2025 18:28:59.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElkinQB joined the game
+[22Apr2025 18:29:08.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> hola
