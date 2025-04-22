@@ -2210,15 +2210,21 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2025-04-21 04:15:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/black_dye": {
     "criteria": {
       "has_ink_sac": "2025-04-21 04:22:06 +0000"
     },
     "done": true
   },
-  "minecraft:story/shiny_gear": {
+  "minecraft:recipes/building_blocks/dripstone_block": {
     "criteria": {
-      "diamond_leggings": "2025-04-21 04:15:43 +0000"
+      "has_pointed_dripstone": "2025-04-22 17:12:43 +0000"
     },
     "done": true
   },

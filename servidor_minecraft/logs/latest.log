@@ -1,299 +1,64 @@
-[21Apr2025 02:14:13.777] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[21Apr2025 02:14:13.783] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.8.0-1021-azure
-[21Apr2025 02:14:13.876] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[21Apr2025 02:14:13.931] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/SRV/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[21Apr2025 02:14:14.119] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SRV/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[21Apr2025 02:14:14.121] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SRV/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[21Apr2025 02:14:14.122] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SRV/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[21Apr2025 02:14:14.123] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SRV/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[21Apr2025 02:14:14.210] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
-[21Apr2025 02:14:15.539] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[21Apr2025 02:14:20.633] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[21Apr2025 02:14:20.635] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[21Apr2025 02:14:21.228] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[21Apr2025 02:14:21.622] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
-[21Apr2025 02:14:22.390] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[21Apr2025 02:14:23.173] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/SRV/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23101!/assets/.mcassetsroot' uses unexpected schema
-[21Apr2025 02:14:23.173] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/SRV/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23101!/data/.mcassetsroot' uses unexpected schema
-[21Apr2025 02:14:24.760] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 7 recipes
-[21Apr2025 02:14:24.890] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1271 advancements
-[21Apr2025 02:14:25.359] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[21Apr2025 02:14:25.359] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[21Apr2025 02:14:25.360] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[21Apr2025 02:14:25.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[21Apr2025 02:14:25.522] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[21Apr2025 02:14:25.551] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[21Apr2025 02:14:25.636] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[21Apr2025 02:14:25.636] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[21Apr2025 02:14:25.636] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[21Apr2025 02:14:25.637] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[21Apr2025 02:14:25.694] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[21Apr2025 02:14:29.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[21Apr2025 02:14:34.429] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[21Apr2025 02:14:34.430] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[21Apr2025 02:14:34.431] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[21Apr2025 02:14:34.432] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[21Apr2025 02:14:34.433] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[21Apr2025 02:14:34.434] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[21Apr2025 02:14:34.435] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[21Apr2025 02:14:34.435] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[21Apr2025 02:14:34.436] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[21Apr2025 02:14:34.436] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[21Apr2025 02:14:34.437] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[21Apr2025 02:14:34.672] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[21Apr2025 02:14:35.173] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 58%
-[21Apr2025 02:14:35.554] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 6383 ms
-[21Apr2025 02:14:35.556] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (9.903s)! For help, type "help"
-[21Apr2025 02:14:35.657] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[21Apr2025 02:15:58.979] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElkinQB[/127.248.133.180:55075] logged in with entity id 215 at (-173.43772558383617, 106.0, 112.38192924916527)
-[21Apr2025 02:15:59.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElkinQB joined the game
-[21Apr2025 02:19:46.634] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Johny[/127.137.193.69:59925] logged in with entity id 942 at (-127.2690148876465, 110.0, -17.39640119065365)
-[21Apr2025 02:19:46.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Johny joined the game
-[21Apr2025 02:20:01.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johny> ola
-[21Apr2025 02:20:11.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> ola
-[21Apr2025 02:23:16.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> listo
-[21Apr2025 02:27:41.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> zzzzzz
-[21Apr2025 02:27:51.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johny> zzzzzz
-[21Apr2025 02:29:20.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johny> oe
-[21Apr2025 02:29:23.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> q
-[21Apr2025 02:29:32.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johny> ya te explico por whats xd
-[21Apr2025 02:30:18.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> aguanta
-[21Apr2025 02:30:31.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> no negro eso no es
-[21Apr2025 02:30:38.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> dame la madera
-[21Apr2025 02:30:41.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> q sacastes
-[21Apr2025 02:31:53.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> oe por q no esta cimetrico
-[21Apr2025 02:38:51.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johny> zzzzzzzzzzz
-[21Apr2025 02:39:05.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> zzzz
-[21Apr2025 02:54:13.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> zzzzzzzzzzzzz
-[21Apr2025 02:56:42.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johny> xd
-[21Apr2025 02:56:58.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> xd
-[21Apr2025 02:57:30.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johny> loco q hiciste
-[21Apr2025 02:57:36.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> =?=??
-[21Apr2025 02:57:53.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> ptm debajo tenemos un hotel de mounstro
-[21Apr2025 02:58:19.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johny> por mi lado dejalos ahi xd
-[21Apr2025 02:58:38.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johny> oe q es q explotas
-[21Apr2025 02:58:49.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> los creper 5 habian
-[21Apr2025 02:59:39.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> tene pico?
-[21Apr2025 02:59:43.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johny> ti
-[21Apr2025 02:59:50.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> ven
-[21Apr2025 03:00:15.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> oica este hierro y todo el carbon para antochas
-[21Apr2025 03:00:46.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> q estos hpt se les acabo la fiesta
-[21Apr2025 03:00:55.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johny> JAJAJJAJJAJJA
-[21Apr2025 03:01:13.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> loco y creo q ahi otra cueva por q esucho una araña
-[21Apr2025 03:01:22.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johny> semon pol dps
-[21Apr2025 03:01:36.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> esque llevaba dias escuchando zombies y esqueletos y me tenian la bola hinchada
-[21Apr2025 03:01:52.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johny> jajajjajajja q risa+
-[21Apr2025 03:02:02.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> loco es de vrd
-[21Apr2025 03:02:19.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johny> loco en 3 vuelvo
-[21Apr2025 03:02:23.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> ok
-[21Apr2025 03:05:58.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johny> zzzzzzzzzzz
-[21Apr2025 03:06:13.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> deja salgo y me meto
-[21Apr2025 03:06:14.617] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElkinQB lost connection: Disconnected
-[21Apr2025 03:06:14.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElkinQB left the game
-[21Apr2025 03:06:31.675] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElkinQB[/127.248.133.180:58979] logged in with entity id 11649 at (-144.8903448587819, 92.0, -59.27019169846606)
-[21Apr2025 03:06:31.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElkinQB joined the game
-[21Apr2025 03:08:15.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> loco escucho otro hotel hospedandose baja y matemoslos
-[21Apr2025 03:08:22.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johny> esperaaaa
-[21Apr2025 03:10:20.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johny> yendo
-[21Apr2025 03:10:26.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> ahi hice una bajada
-[21Apr2025 03:10:52.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johny> ontas
-[21Apr2025 03:11:06.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> abajo
-[21Apr2025 03:11:55.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> loco ayudame encotrar es puta cueva me tiene harto ese sonido
-[21Apr2025 03:14:15.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> loco no tenemos povora?
-[21Apr2025 03:14:21.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johny> ñao
-[21Apr2025 03:15:02.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> ven
-[21Apr2025 03:15:09.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> pero con cuidado
-[21Apr2025 03:16:05.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> ven al fin
-[21Apr2025 03:16:17.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> no ve ni vrg
-[21Apr2025 03:16:26.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> aqui no es
-[21Apr2025 03:16:32.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johny> xd
-[21Apr2025 03:17:43.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johny> oe por aqui es
-[21Apr2025 03:17:48.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> vioy
-[21Apr2025 03:18:06.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johny> osea poe aqui se escucha fuerte a esos manes
-[21Apr2025 03:18:45.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johny> oeeeeeeeeeeeeee
-[21Apr2025 03:18:49.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johny> aqui hay agua
-[21Apr2025 03:18:49.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> dimee
-[21Apr2025 03:19:01.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> uno menos
-[21Apr2025 03:20:08.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> loco estoy q me desquito con el q se aparezca
-[21Apr2025 03:20:14.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johny> AJJAAJAJJAAJAJAJ
-[21Apr2025 03:20:17.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> aca ven
-[21Apr2025 03:20:41.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johny> xd
-[21Apr2025 03:21:10.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> aca
-[21Apr2025 03:21:28.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johny> ontas
-[21Apr2025 03:21:41.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> ya lo mate pero sigo escuchando una araraña
-[21Apr2025 03:21:54.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> aca es
-[21Apr2025 03:22:11.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> ven
-[21Apr2025 03:22:22.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> metete aca
-[21Apr2025 03:22:37.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> ese hpt los llenaste de bala
-[21Apr2025 03:22:41.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> bven
-[21Apr2025 03:23:25.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johny> poe
-[21Apr2025 03:23:42.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johny> casi me mata
-[21Apr2025 03:23:48.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> q era esto hotel transilvania 2
-[21Apr2025 03:23:55.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johny> jajajajajajaja hablas hvd
-[21Apr2025 03:24:39.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> listo
-[21Apr2025 03:24:45.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johny> mision cumpñida
-[21Apr2025 03:24:55.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> me quedo con el q me ayude a buscar los soniditos q no dejan en paz
-[21Apr2025 03:25:13.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johny> espectacular
-[21Apr2025 03:25:20.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> oe tu amigo esta aca
-[21Apr2025 03:25:29.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johny> onde
-[21Apr2025 03:25:31.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> en la zona de tranding
-[21Apr2025 03:25:43.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johny> se mata?
-[21Apr2025 03:25:46.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> si
-[21Apr2025 03:26:09.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> este de aca lo mato?
-[21Apr2025 03:26:15.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johny> a cuañ
-[21Apr2025 03:26:24.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> al herrero
-[21Apr2025 03:26:27.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johny> nooooooooo
-[21Apr2025 03:26:30.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> para limpiar esta zona
-[21Apr2025 03:26:36.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johny> ya lo muevo
-[21Apr2025 03:26:37.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> tonse llevatelo
-[21Apr2025 03:26:41.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johny> ya
-[21Apr2025 03:26:44.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> plo
-[21Apr2025 03:26:46.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> oki
-[21Apr2025 03:26:56.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> vrg escucho una puta arraña saboriando algo
-[21Apr2025 03:27:14.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johny> xd
-[21Apr2025 03:27:28.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johny> deja ir a ver rieles pa mover a ese pela mazo
-[21Apr2025 03:28:45.728] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/13500, l='ServerLevel[world]', x=-174.15, y=104.00, z=112.85] died, message: 'Villager was slain by ElkinQB'
-[21Apr2025 03:30:57.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> necesitamos un pico de hiero algun aldeano q de esa vaina
-[21Apr2025 03:31:08.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johny> si en eso ando
-[21Apr2025 03:31:09.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> de diamante
-[21Apr2025 03:31:12.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> xd
-[21Apr2025 03:35:44.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> estoy pensando donde hacer el deposito de cosas
-[21Apr2025 03:35:52.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johny> tan rapido cxd
-[21Apr2025 03:35:58.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> loco si
-[21Apr2025 03:36:15.212] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/86, l='ServerLevel[world]', x=-167.72, y=82.00, z=-17.35] died, message: 'Villager was slain by Zombie'
-[21Apr2025 03:36:58.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johny> zzzzzzzzzz
-[21Apr2025 03:39:37.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johny> 7
-[21Apr2025 03:39:41.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johny> xd
-[21Apr2025 03:39:43.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> ??
-[21Apr2025 03:39:48.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johny> se me fue
-[21Apr2025 03:40:00.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> xd
-[21Apr2025 03:41:36.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> por a hora voy hacer un deposito provicional hasta tenr materiales
-[21Apr2025 03:41:46.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johny> lito
-[21Apr2025 03:42:03.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johny> yo ando haciendo las mesas de los demas aldeanos
-[21Apr2025 03:49:26.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> zzzz
-[21Apr2025 03:49:33.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johny> voyy
-[21Apr2025 03:52:05.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> loco otra aldea serquita
-[21Apr2025 03:52:20.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johny> q belleza
-[21Apr2025 03:56:10.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Johny has made the advancement [Cover Me with Diamonds]
-[21Apr2025 03:58:30.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> aguanta ya vengo en 2 minutos
-[21Apr2025 03:58:34.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johny> oki
-[21Apr2025 04:08:20.863] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Johny lost connection: Disconnected
-[21Apr2025 04:08:20.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Johny left the game
-[21Apr2025 04:10:53.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> ola
-[21Apr2025 04:12:38.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElkinQB fell from a high place
-[21Apr2025 04:15:43.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElkinQB has made the advancement [Cover Me with Diamonds]
-[21Apr2025 04:22:40.387] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 0.30093097580237327
-[21Apr2025 04:22:40.388] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 0.8151805306595179
-[21Apr2025 04:22:40.545] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 0.340331951936264
-[21Apr2025 04:23:33.437] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 0.34007612107228624
-[21Apr2025 04:23:33.437] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 0.951232876882159
-[21Apr2025 04:23:33.438] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 1.5595390026508085
-[21Apr2025 04:23:33.438] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 2.1622639317658496
-[21Apr2025 04:23:33.554] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 2.762564005848811
-[21Apr2025 04:23:35.648] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 0.5182494546467495
-[21Apr2025 04:23:35.648] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 1.1594394413262847
-[21Apr2025 04:23:35.648] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 1.8025557621235322
-[21Apr2025 04:23:35.765] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 2.4467028259002177
-[21Apr2025 04:23:35.766] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 3.09196764362828
-[21Apr2025 04:23:35.923] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 3.4672954401688685
-[21Apr2025 04:23:35.923] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 3.8320986080423722
-[21Apr2025 04:23:35.924] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 4.187700297317662
-[21Apr2025 04:23:36.394] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 2.515824821262484
-[21Apr2025 04:23:36.394] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 2.515824821262484
-[21Apr2025 04:23:36.394] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 2.515824821262484
-[21Apr2025 04:23:36.395] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 2.1383371191419087
-[21Apr2025 04:23:36.395] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 1.4995567782877544
-[21Apr2025 04:23:36.552] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 0.8556213554016807
-[21Apr2025 04:24:20.628] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 0.48487352672412953
-[21Apr2025 04:24:20.745] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 1.0765462380642816
-[21Apr2025 04:24:20.745] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 1.6813008857562863
-[21Apr2025 04:24:20.745] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 2.2943273923859806
-[21Apr2025 04:24:40.986] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 0.3017979223913585
-[21Apr2025 04:24:40.986] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 0.7036421902337224
-[21Apr2025 04:24:41.103] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 1.0839006099179755
-[21Apr2025 04:24:41.104] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 1.295157518560245
-[21Apr2025 04:24:41.104] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 1.1784200269848384
-[21Apr2025 04:24:41.221] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 0.8464746806628796
-[21Apr2025 04:24:41.221] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 0.38956771935988854
-[21Apr2025 04:24:41.578] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 0.33634038577702086
-[21Apr2025 04:24:41.579] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 0.33634038577702086
-[21Apr2025 04:24:49.515] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 0.2785179162848408
-[21Apr2025 04:24:49.515] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 0.9299783447403911
-[21Apr2025 04:24:49.630] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 1.0
-[21Apr2025 04:24:49.630] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 1.0
-[21Apr2025 04:24:49.748] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 1.0
-[21Apr2025 04:24:49.748] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 1.0
-[21Apr2025 04:24:49.866] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 1.0
-[21Apr2025 04:24:49.866] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 1.0
-[21Apr2025 04:24:49.866] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 1.0
-[21Apr2025 04:24:49.983] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 1.0
-[21Apr2025 04:24:49.984] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 1.0
-[21Apr2025 04:24:50.101] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 1.0
-[21Apr2025 04:24:50.102] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 0.2990518834935756
-[21Apr2025 04:24:50.102] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 0.4590685838996933
-[21Apr2025 04:24:50.219] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 0.5446903298981738
-[21Apr2025 04:24:50.220] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 0.590504819068542
-[21Apr2025 04:24:50.337] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 0.6150192387812012
-[21Apr2025 04:24:50.337] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 0.6281364160046792
-[21Apr2025 04:24:50.454] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 0.6351551560086364
-[21Apr2025 04:24:50.455] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 0.6389107438461679
-[21Apr2025 04:24:50.455] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 0.6389107438461679
-[21Apr2025 04:24:50.572] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 0.6389107438461679
-[21Apr2025 04:24:50.573] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 0.6389107438461679
-[21Apr2025 04:24:50.690] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 0.6389107438461679
-[21Apr2025 04:24:50.690] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 0.6389107438461679
-[21Apr2025 04:24:50.813] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 0.6389107438461679
-[21Apr2025 04:24:50.813] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 0.6389107438461679
-[21Apr2025 04:24:50.814] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 0.9392153776918235
-[21Apr2025 04:24:50.928] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 1.40074998491923
-[21Apr2025 04:24:50.928] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 1.9496592908390085
-[21Apr2025 04:24:51.046] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 1.5454993956350904
-[21Apr2025 04:24:51.046] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 2.1664512352107295
-[21Apr2025 04:25:00.007] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 0.5423924798547546
-[21Apr2025 04:25:00.364] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 0.26040660724764564
-[21Apr2025 04:27:46.943] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 0.3054485027388161
-[21Apr2025 04:27:47.062] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 0.9288075769994535
-[21Apr2025 04:27:47.063] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 0.5590048318063481
-[21Apr2025 04:43:58.714] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/13, l='ServerLevel[world]', x=-128.53, y=111.00, z=-9.57] died, message: 'Fletcher was shot by Pillager'
-[21Apr2025 04:52:35.423] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Johny[/127.137.193.69:42693] logged in with entity id 39471 at (-130.74575550159497, 110.0, -17.032736768075733)
-[21Apr2025 04:52:35.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Johny joined the game
-[21Apr2025 04:56:08.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> hola
-[21Apr2025 04:56:15.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johny> ola
-[21Apr2025 04:56:18.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> ven
-[21Apr2025 04:56:41.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johny> y esto
-[21Apr2025 04:56:50.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> para rellenar xd
-[21Apr2025 04:56:55.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johny> xdddddddd
-[21Apr2025 04:57:16.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> nooo
-[21Apr2025 04:57:21.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> la ptm se apago la lava
-[21Apr2025 04:57:53.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> zzz
-[21Apr2025 04:58:01.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> zzzzzzzz
-[21Apr2025 04:58:03.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> zzzzzzzzzzzzzzz
-[21Apr2025 04:58:05.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> zzzzzzzzzzzzzz
-[21Apr2025 04:58:06.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> zzzzzzzzzz
-[21Apr2025 04:58:07.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> zzzzzzzzzz
-[21Apr2025 04:58:08.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> z
-[21Apr2025 04:58:21.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johny> z
-[21Apr2025 04:58:27.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> voy a ver el portal para ponerlo aca
-[21Apr2025 04:58:37.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> mira mi nueva adquisicion esto si es rapido
-[21Apr2025 04:58:40.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johny> lito
-[21Apr2025 04:58:50.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johny> ponle bartolo
-[21Apr2025 04:59:01.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> dame la etiqueta jaaja
-[21Apr2025 04:59:10.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johny> ya mismo :)
-[21Apr2025 04:59:13.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> oki
-[21Apr2025 04:59:33.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> ya mismo te mando el diseño del muro del castillo para q elijas
-[21Apr2025 04:59:39.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> son 4 diseño
-[21Apr2025 04:59:49.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johny> oki doki
-[21Apr2025 05:00:55.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> oe te acuerdas del burro ?
-[21Apr2025 05:01:05.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johny> simon
-[21Apr2025 05:01:08.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> uve que matarlo para conseguir cuero;)
-[21Apr2025 05:01:12.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> tuve*
-[21Apr2025 05:01:17.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johny> si eres hpp
-[21Apr2025 05:01:32.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> ademas era lento
-[21Apr2025 05:01:49.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johny> loco pero tenias q dejarlo de recuerdo
-[21Apr2025 05:01:55.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johny> como tu primera nave
-[21Apr2025 05:02:13.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> xd
-[21Apr2025 05:02:31.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> loco lo tengo hecho marco xdd
-[21Apr2025 05:02:38.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johny> jaajjaajajajajajjaajaj
-[21Apr2025 05:04:13.977] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 0.31897727285281974
-[21Apr2025 05:04:13.977] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 0.6949704134101324
-[21Apr2025 05:05:22.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> tenemos portal
+[22Apr2025 17:03:56.306] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[22Apr2025 17:03:56.310] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.8.0-1026-azure
+[22Apr2025 17:03:56.407] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[22Apr2025 17:03:56.462] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/SRV/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[22Apr2025 17:03:56.650] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SRV/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[22Apr2025 17:03:56.652] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SRV/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[22Apr2025 17:03:56.653] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SRV/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[22Apr2025 17:03:56.654] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SRV/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[22Apr2025 17:03:56.747] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
+[22Apr2025 17:03:58.096] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[22Apr2025 17:04:03.841] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[22Apr2025 17:04:03.844] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[22Apr2025 17:04:04.390] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[22Apr2025 17:04:04.822] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[22Apr2025 17:04:05.680] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[22Apr2025 17:04:06.683] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/SRV/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23101!/assets/.mcassetsroot' uses unexpected schema
+[22Apr2025 17:04:06.683] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/SRV/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23101!/data/.mcassetsroot' uses unexpected schema
+[22Apr2025 17:04:08.192] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 7 recipes
+[22Apr2025 17:04:08.304] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1271 advancements
+[22Apr2025 17:04:08.811] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[22Apr2025 17:04:08.812] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[22Apr2025 17:04:08.812] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[22Apr2025 17:04:08.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[22Apr2025 17:04:08.915] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[22Apr2025 17:04:08.941] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[22Apr2025 17:04:09.014] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[22Apr2025 17:04:09.015] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[22Apr2025 17:04:09.015] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[22Apr2025 17:04:09.015] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[22Apr2025 17:04:09.059] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[22Apr2025 17:04:11.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[22Apr2025 17:04:16.888] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Apr2025 17:04:16.954] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Apr2025 17:04:17.045] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Apr2025 17:04:17.201] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Apr2025 17:04:17.203] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Apr2025 17:04:17.204] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Apr2025 17:04:17.205] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Apr2025 17:04:17.206] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Apr2025 17:04:17.208] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Apr2025 17:04:17.208] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Apr2025 17:04:17.209] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Apr2025 17:04:17.494] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Apr2025 17:04:17.994] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 22%
+[22Apr2025 17:04:18.494] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 85%
+[22Apr2025 17:04:18.647] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 6654 ms
+[22Apr2025 17:04:18.648] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (9.620s)! For help, type "help"
+[22Apr2025 17:04:18.665] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[22Apr2025 17:06:29.892] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElkinQB[/127.138.251.110:35629] logged in with entity id 224 at (-126.23160696290576, 110.5625, -17.570426088925288)
+[22Apr2025 17:06:29.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElkinQB joined the game
+[22Apr2025 17:08:54.333] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Johny[/127.137.193.69:51797] logged in with entity id 670 at (-128.17042214912942, 110.0, -17.773251400280316)
+[22Apr2025 17:08:54.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Johny joined the game
+[22Apr2025 17:09:00.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> ola
+[22Apr2025 17:09:08.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johny> zzzzzzzzzzzz
+[22Apr2025 17:09:16.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> voy al nether a ver lava
+[22Apr2025 17:09:20.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johny> lito
+[22Apr2025 17:09:35.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> para hacer un mecanimos para farmea piedra
+[22Apr2025 17:09:41.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johny> oki
+[22Apr2025 17:10:41.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> ese spawn es una mrd
+[22Apr2025 17:10:51.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johny> yo voy a ver oro
+[22Apr2025 17:11:06.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> si pudes trae lava gracis
+[22Apr2025 17:11:12.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johny> oki
+[22Apr2025 17:16:10.683] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-47, y=109, z=-30} BlockPos{x=-47, y=109, z=-31}
+[22Apr2025 17:23:46.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> conseguiste lava?
