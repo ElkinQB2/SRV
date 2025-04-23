@@ -2231,9 +2231,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/book": {
+  "minecraft:recipes/decorations/grindstone": {
     "criteria": {
-      "has_paper": "2025-04-22 19:36:31 +0000"
+      "has_stone_slab": "2025-04-22 18:53:29 +0000"
     },
     "done": true
   },
@@ -2243,21 +2243,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/cartography_table": {
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-04-22 19:16:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
     "criteria": {
       "has_paper": "2025-04-22 19:36:31 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/grindstone": {
+  "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
-      "has_stone_slab": "2025-04-22 18:53:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/hero_of_the_village": {
-    "criteria": {
-      "hero_of_the_village": "2025-04-22 19:16:34 +0000"
+      "has_paper": "2025-04-22 19:36:31 +0000"
     },
     "done": true
   },
