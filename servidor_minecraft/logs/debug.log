@@ -734,3 +734,56 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [24Apr2025 01:33:33.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johny> ñao
 [24Apr2025 01:35:15.204] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [24Apr2025 01:35:15.217] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Apr2025 01:40:15.228] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Apr2025 01:40:15.235] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Apr2025 01:43:57.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> ya te caigo
+[24Apr2025 01:44:10.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johny> oe stak y medio de carbom te sirve?
+[24Apr2025 01:44:16.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> mas
+[24Apr2025 01:44:34.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johny> juepu
+[24Apr2025 01:44:39.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johny> lito
+[24Apr2025 01:44:45.608] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 0.28056762465885754
+[24Apr2025 01:44:45.610] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 0.8937317467591583
+[24Apr2025 01:44:45.678] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 1.523749072172663
+[24Apr2025 01:44:45.744] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 2.162784210662437
+[24Apr2025 01:44:45.745] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 2.8066446011335273
+[24Apr2025 01:44:45.837] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 3.4530868877346705
+[24Apr2025 01:44:45.884] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 3.829177810602175
+[24Apr2025 01:44:45.885] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 4.194768249257493
+[24Apr2025 01:44:45.999] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 0.2877931881882887
+[24Apr2025 01:44:46.000] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 0.9074010680298414
+[24Apr2025 01:44:46.078] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 1.5408663197360255
+[24Apr2025 01:44:46.139] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 0.5724471367280302
+[24Apr2025 01:44:46.140] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 0.5764146501913814
+[24Apr2025 01:44:46.208] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 1.2214295992948934
+[24Apr2025 01:44:46.280] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 1.8655683839092063
+[24Apr2025 01:44:46.350] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 0.5752370480882689
+[24Apr2025 01:44:46.352] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 1.2186561593087788
+[24Apr2025 01:44:46.425] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 1.8622786234414264
+[24Apr2025 01:44:46.502] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 0.5752983558448079
+[24Apr2025 01:44:46.559] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 1.2190878521754485
+[24Apr2025 01:44:46.560] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 1.8632318081466792
+[24Apr2025 01:44:46.668] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 0.5759007018810536
+[24Apr2025 01:44:46.699] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 1.2214825119170456
+[24Apr2025 01:44:46.699] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 1.8682185991179523
+[24Apr2025 01:44:46.783] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 0.5795480962093507
+[24Apr2025 01:44:46.838] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 1.2283755738625075
+[24Apr2025 01:44:46.909] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 0.5810134292171796
+[24Apr2025 01:44:46.909] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 1.2307909217774267
+[24Apr2025 01:44:46.978] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 1.8807456034068508
+[24Apr2025 01:44:47.089] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 0.581616573590864
+[24Apr2025 01:44:47.090] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 1.2318663345834011
+[24Apr2025 01:44:47.090] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 1.579802017108932
+[24Apr2025 01:44:47.159] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 1.765975463739224
+[24Apr2025 01:44:55.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> te veo
+[24Apr2025 01:45:15.215] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Apr2025 01:45:15.221] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Apr2025 01:46:07.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> cuidado con el caballo
+[24Apr2025 01:46:19.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johny> oki
+[24Apr2025 01:47:03.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> ya estoy en casa xd
+[24Apr2025 01:47:05.243] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 0.29077762761774295
+[24Apr2025 01:47:05.245] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 0.941288079811855
+[24Apr2025 01:47:05.353] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ElkinQB) moved wrongly! 0.5918103479728245
+[24Apr2025 01:47:09.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johny> xd
+[24Apr2025 01:47:28.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> pilas para ir por baritas
+[24Apr2025 01:47:42.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johny> aguanta q encontre mas carbon
+[24Apr2025 01:47:50.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> oki
