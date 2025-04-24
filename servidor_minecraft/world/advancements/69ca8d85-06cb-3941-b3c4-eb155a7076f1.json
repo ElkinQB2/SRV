@@ -8,10 +8,16 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2025-04-18 03:34:00 +0000",
+      "minecraft:taiga": "2025-04-24 04:19:38 +0000",
+      "minecraft:frozen_river": "2025-04-24 04:16:52 +0000",
       "minecraft:cherry_grove": "2025-04-18 03:33:01 +0000",
       "minecraft:sunflower_plains": "2025-04-18 03:31:35 +0000",
       "minecraft:river": "2025-04-17 04:05:04 +0000",
+      "minecraft:snowy_plains": "2025-04-24 04:16:54 +0000",
       "minecraft:dripstone_caves": "2025-04-18 19:30:04 +0000",
+      "minecraft:snowy_taiga": "2025-04-24 04:16:50 +0000",
+      "minecraft:forest": "2025-04-24 04:15:00 +0000",
+      "minecraft:frozen_ocean": "2025-04-24 04:18:55 +0000",
       "minecraft:flower_forest": "2025-04-18 03:31:32 +0000",
       "minecraft:deep_dark": "2025-04-18 04:05:39 +0000",
       "minecraft:meadow": "2025-04-17 03:50:59 +0000",
@@ -112,12 +118,16 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-04-22 19:00:35 +0000",
+      "minecraft:blaze": "2025-04-24 02:25:22 +0000",
       "minecraft:skeleton": "2025-04-17 03:52:14 +0000",
       "minecraft:ravager": "2025-04-22 19:06:43 +0000",
+      "minecraft:ghast": "2025-04-24 02:06:08 +0000",
       "minecraft:hoglin": "2025-04-18 19:53:10 +0000",
       "minecraft:vindicator": "2025-04-22 19:03:11 +0000",
       "minecraft:spider": "2025-04-19 04:15:19 +0000",
       "minecraft:creeper": "2025-04-18 18:40:02 +0000",
+      "minecraft:zombified_piglin": "2025-04-24 01:57:42 +0000",
+      "minecraft:wither_skeleton": "2025-04-24 02:31:13 +0000",
       "minecraft:piglin": "2025-04-18 19:51:59 +0000",
       "minecraft:enderman": "2025-04-21 03:23:29 +0000",
       "minecraft:zombie": "2025-04-17 04:06:06 +0000",
@@ -1550,7 +1560,10 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:crimson_forest": "2025-04-18 19:51:07 +0000"
+      "minecraft:crimson_forest": "2025-04-18 19:51:07 +0000",
+      "minecraft:nether_wastes": "2025-04-24 02:11:03 +0000",
+      "minecraft:soul_sand_valley": "2025-04-24 02:05:30 +0000",
+      "minecraft:warped_forest": "2025-04-24 02:25:51 +0000"
     },
     "done": false
   },
@@ -2433,6 +2446,192 @@
   "minecraft:recipes/misc/coal_from_smelting_coal_ore": {
     "criteria": {
       "has_coal_ore": "2025-04-23 05:27:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_shell": "2025-04-24 01:45:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-04-24 02:10:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-04-24 02:10:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-04-24 02:25:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-04-24 02:25:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-04-24 02:25:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2025-04-24 02:25:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-04-24 02:25:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_bricks": "2025-04-24 02:25:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_bricks": "2025-04-24 02:25:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-04-24 02:25:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-04-24 02:25:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-04-24 02:25:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2025-04-24 02:25:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_bricks": "2025-04-24 02:25:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-04-24 02:25:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-04-24 02:35:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2025-04-24 02:35:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-04-24 02:35:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
+    "criteria": {
+      "has_warped_fungus": "2025-04-24 02:38:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/distract_piglin": {
+    "criteria": {
+      "distract_piglin": "2025-04-24 02:51:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2025-04-24 03:03:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2025-04-24 03:03:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-04-24 03:03:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-04-24 03:06:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-04-24 03:06:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2025-04-24 04:07:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-04-24 03:51:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-04-24 04:09:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-04-24 03:51:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2025-04-24 04:07:29 +0000"
     },
     "done": true
   },
