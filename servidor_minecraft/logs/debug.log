@@ -957,3 +957,25 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [26Apr2025 00:47:53.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johny> pa 6 xddd
 [26Apr2025 00:48:00.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> ta chato
 [26Apr2025 00:48:10.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> 3 y 3
+[26Apr2025 00:48:38.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johny> deja ver si farmeo polvora ahora q se hace de noche
+[26Apr2025 00:48:42.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> oki
+[26Apr2025 00:48:43.777] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Apr2025 00:48:43.782] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Apr2025 00:48:55.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> ni una puta end city loco
+[26Apr2025 00:49:03.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johny> chuuuuuu
+[26Apr2025 00:49:29.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> estoy en -2240 58 -307
+[26Apr2025 00:49:44.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johny> loco ya mismo pasa las cords q toy enterito
+[26Apr2025 00:49:49.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> oki
+[26Apr2025 00:52:36.247] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/276, l='ServerLevel[world]', x=-171.30, y=111.00, z=169.70] died, message: 'Villager was slain by Zombie'
+[26Apr2025 00:53:43.775] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Apr2025 00:53:43.780] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Apr2025 00:58:43.826] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Apr2025 00:58:43.833] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Apr2025 01:01:44.232] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElkinQB moved too quickly! -3.630958099107829,0.7287758923075174,9.390946475136811
+[26Apr2025 01:01:44.262] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4923ms or 98 ticks behind
+[26Apr2025 01:03:48.679] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Apr2025 01:03:48.686] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Apr2025 01:05:07.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> juego de mrd ni una end city
+[26Apr2025 01:05:54.957] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElkinQB moved too quickly! 9.608642622029947,-1.1767592750642422,-2.8947276797786685
+[26Apr2025 01:06:00.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Johny> yendo
+[26Apr2025 01:06:05.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElkinQB> belleza
