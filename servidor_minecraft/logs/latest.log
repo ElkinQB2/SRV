@@ -153,3 +153,7 @@
 [26Apr2025 02:03:42.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElkinQB left the game
 [26Apr2025 02:04:42.804] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElkinQB[/127.138.251.110:55797] logged in with entity id 28321 at (-465.36758072371777, 85.0, 6.911568765554048)
 [26Apr2025 02:04:42.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElkinQB joined the game
+[26Apr2025 02:11:42.049] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElkinQB lost connection: Disconnected
+[26Apr2025 02:11:42.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElkinQB left the game
+[26Apr2025 02:13:36.703] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElkinQB[/127.138.251.110:36699] logged in with entity id 30515 at (-44.13580654826909, 93.0, -48.823853720023884)
+[26Apr2025 02:13:36.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElkinQB joined the game
