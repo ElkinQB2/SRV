@@ -140,3 +140,12 @@
 [26Apr2025 01:24:09.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElkinQB has reached the goal [Sky's the Limit]
 [26Apr2025 01:24:19.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElkinQB has made the advancement [Local Brewery]
 [26Apr2025 01:38:49.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElkinQB has reached the goal [The Next Generation]
+[26Apr2025 01:55:25.398] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElkinQB lost connection: Timed out
+[26Apr2025 01:55:25.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElkinQB left the game
+[26Apr2025 01:55:47.705] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElkinQB[/127.138.251.110:49645] logged in with entity id 26484 at (-49.08165217256343, 96.162141421027, -141.67381752595375)
+[26Apr2025 01:55:47.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElkinQB joined the game
+[26Apr2025 01:56:09.199] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElkinQB lost connection: Disconnected
+[26Apr2025 01:56:09.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElkinQB left the game
+[26Apr2025 01:56:47.554] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@31d13f8a[id=<null>,name=ElkinQB,properties={},legacy=false] (/127.138.251.110:51355) lost connection: Disconnected
+[26Apr2025 01:57:11.715] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElkinQB[/127.138.251.110:45803] logged in with entity id 26625 at (-49.08165217256343, 96.162141421027, -141.67381752595375)
+[26Apr2025 01:57:11.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElkinQB joined the game
