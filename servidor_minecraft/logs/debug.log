@@ -1008,3 +1008,10 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [26Apr2025 01:15:00.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElkinQB has made the advancement [The City at the End of the Game]
 [26Apr2025 01:18:48.656] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [26Apr2025 01:18:48.662] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Apr2025 01:19:17.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElkinQB has completed the challenge [Great View From Up Here]
+[26Apr2025 01:23:48.659] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Apr2025 01:23:48.668] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Apr2025 01:24:09.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElkinQB has reached the goal [Sky's the Limit]
+[26Apr2025 01:24:19.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElkinQB has made the advancement [Local Brewery]
+[26Apr2025 01:28:48.657] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Apr2025 01:28:48.664] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
